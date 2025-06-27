@@ -6,7 +6,7 @@ Each file is named according to the problem number and title.
 
 ### ✅ Problems: 
 
-[1. Two Sum](https://leetcode.com/problems/two-sum/)
-
+[1. Two Sum](https://leetcode.com/problems/two-sum/)<br>
+[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 
 Feel free to star ⭐ this repo if you find it helpful!
